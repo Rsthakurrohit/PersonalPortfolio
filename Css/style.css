@@ -1062,6 +1062,10 @@ nav.open .links .non-active:hover {
     width: 140%;
     margin-left: -21%;
   }
+  
+   .section{
+    padding: 4rem 0;
+  }
 }
 
 
